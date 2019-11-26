@@ -1,0 +1,22 @@
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.csprojAssemblyReference.cache
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.FormEntry.resources
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.FormList.resources
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.Properties.Resources.resources
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.csproj.GenerateResource.cache
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.csproj.CoreCompileInputs.cache
+D:\TUGAS!\TugasCalculatorApp\bin\Debug\TugasCalculatorApp.exe.config
+D:\TUGAS!\TugasCalculatorApp\bin\Debug\TugasCalculatorApp.exe
+D:\TUGAS!\TugasCalculatorApp\bin\Debug\TugasCalculatorApp.pdb
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.exe
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.pdb
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\bin\Debug\TugasCalculatorApp.exe.config
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\bin\Debug\TugasCalculatorApp.exe
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\bin\Debug\TugasCalculatorApp.pdb
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.csprojAssemblyReference.cache
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.FormEntry.resources
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.FormList.resources
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.Properties.Resources.resources
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.csproj.GenerateResource.cache
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.csproj.CoreCompileInputs.cache
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.exe
+E:\materi & tugas kuliah\SEMESTER 3\Pemrograman lanjut\TugasLab-CalculatorApp-master\obj\Debug\TugasCalculatorApp.pdb
